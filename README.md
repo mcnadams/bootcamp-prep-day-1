@@ -28,3 +28,5 @@ This isn't markup
 ```
 
 This isn't code
+
+<h1>THIS IS HTML</h1>
